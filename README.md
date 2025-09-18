@@ -1,4 +1,4 @@
-💰 Loan Status Prediction using Logistic Regression
+**#💰 Loan Status Prediction using Logistic Regression**
 
 📌 Project Overview
 
